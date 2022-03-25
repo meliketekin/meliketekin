@@ -1,18 +1,24 @@
 <h1 align="center">Hi 👋, I'm Melike Tekin</h1>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-
-
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always+learning+new+things&center=true&width=600&height=50"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meliketekin&label=Profile%20views&color=ff8800&style=plastic" alt="meliketekin" /> </p>
 
-## 👩  About me
+<b><i align="center">"Do what you love, love what you do"</i></b>
 
-- 🎓 I am a 3rd year computer engineering student at Akdeniz University. 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+
+## 👩🏼‍💻  About me
+
+- 🎓  I am a 3rd year computer engineering student at `Akdeniz University`.
+
+- 📝 I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/11JqgP4lhXLOGw8XJK1sfDZCWKvJ5fBgN/view?usp=sharing).
 
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **meliketekin2243@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
 <p align="left">
 <a href="https://linkedin.com/in/meliketekinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meliketekinn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18523332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18523332" height="30" width="40" /></a>
