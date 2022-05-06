@@ -14,7 +14,7 @@
 
 - 📝 I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/11JqgP4lhXLOGw8XJK1sfDZCWKvJ5fBgN/view?usp=sharing).
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **meliketekin2243@gmail.com**
 
