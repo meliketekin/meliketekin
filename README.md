@@ -8,7 +8,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="10px height:"10px" >&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" >&nbsp;***About me***
 
 - 🎓  I am a 3rd year computer engineering student at `Akdeniz University`.
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **meliketekin2243@gmail.com**
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="10px" height:"10px> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/meliketekinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meliketekinn" height="30" width="40" /></a>
